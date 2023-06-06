@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/marie-de-france/lais/eugene-mason</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-06T21:01:34Z</dc:date>
+		<meta property="dcterms:modified">2023-06-06T21:01:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,19 +39,17 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">The lais are a twelfth century collection of medieval tales of chivalry and romance.</dc:description>
+		<dc:description id="description">A collection of twelfth-century medieval tales of chivalry and romance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The lais, or lays, of &lt;a href="https://standardebooks.org/ebooks/marie-de-france"&gt;Marie de France&lt;/a&gt; are a collection medieval poems, tales of chivalry, knights, ladies, love lost and found.&lt;/p&gt;
-			&lt;p&gt;Marie is regarded as the first female poet writing in French. Most of the details of her life are lost to history, but the poet herself says she is of France. The Lais were likely composed in the 1170s and it is believed she died around 1190. She was thought to have lived and composed mostly in England, perhaps at the court of King Henry II. She wrote in Anglo-Norman, the language of the Norman conquerers of England, and knew Latin, indicating she was likely of noble birth.&lt;/p&gt;
-			&lt;p&gt;There are twelve lais attributed to her. They are medieval fairy tales, featuring knights, ladies, and courtly romance, as well as Arthurian adventures. A streak of the fantastical runs through the tales: ships sail themselves without a crew, animals speak, knights shapeshift to werewolves or hawks, the better to fly into ladies’ towers.&lt;/p&gt;
-			&lt;p&gt;This edition, originally published in 1911, includes an introduction by the translator, Eugene Mason.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/marie-de-france"&gt;Marie de France&lt;/a&gt; is regarded as the first female poet writing in French. Most of the details of her life are lost to history, and even though she was thought to have lived and composed mostly in England—perhaps at the court of King Henry II—she herself says she is of France. The Lais were likely composed in the 1170s in the Anglo-Norman language, the language of the Norman conquerors of England.&lt;/p&gt;
+			&lt;p&gt;The lais, or lays, are a collection of twelve medieval poems attributed to Marie, telling tales of chivalry, knights, ladies, and love lost and found. A streak of the fantastical runs through them: ships sail themselves without a crew, animals speak, and knights shapeshift to werewolves or hawks—the better to fly into ladies’ towers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11417</dc:source>
 		<dc:source>https://archive.org/details/laysofmariedefra00mari</dc:source>
 		<meta property="se:production-notes">The original edition of this work, and the Gutenberg transcription, contain stories that modern scholarship has identified as not being written by Marie de France. They have been removed from this edition, although with accompanying minor edits to the introduction.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48312</meta>
+		<meta property="se:reading-ease.flesch">77.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lais</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marie-de-france_lais_eugene-mason</meta>
 		<dc:creator id="author">Marie de France</dc:creator>
