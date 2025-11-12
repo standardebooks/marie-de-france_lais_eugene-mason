@@ -61,8 +61,8 @@
 		<dc:contributor id="translator">Eugene Mason</dc:contributor>
 		<meta property="file-as" refines="#translator">Mason, Eugene</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n84055828</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Edmund Blair Leighton</dc:contributor>
 		<meta property="file-as" refines="#artist">Leighton, Edmund Blair</meta>
