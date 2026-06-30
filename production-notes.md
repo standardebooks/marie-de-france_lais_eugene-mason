@@ -1,0 +1,1 @@
+The original edition of this work, and the Gutenberg transcription, contain stories that modern scholarship has identified as not being written by Marie de France. They have been removed from this edition, although with accompanying minor edits to the introduction.
