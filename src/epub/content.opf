@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:abstract>A collection of twelfth-century medieval tales of chivalry and romance.</dc:abstract>
+		<meta property="schema:abstract">A collection of twelfth-century medieval tales of chivalry and romance.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/marie-de-france"&gt;Marie de France&lt;/a&gt; is regarded as the first female poet writing in French. Most of the details of her life are lost to history, and even though she was thought to have lived and composed mostly in England—perhaps at the court of King Henry II—she herself says she is of France. The Lais were likely composed in the 1170s in the Anglo-Norman language, the language of the Norman conquerors of England.&lt;/p&gt;
 			&lt;p&gt;The lais, or lays, are a collection of twelve medieval poems attributed to Marie, telling tales of chivalry, knights, ladies, and love lost and found. A streak of the fantastical runs through them: ships sail themselves without a crew, animals speak, and knights shapeshift to werewolves or hawks—the better to fly into ladies’ towers.&lt;/p&gt;
